@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-nativesettingsopener",
+  "version": "1.4.0",
+  "cordova": {
+    "id": "cordova-plugin-nativesettingsopener",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Native settings opener for Cordova"
+}
