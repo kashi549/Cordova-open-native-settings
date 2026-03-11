@@ -4,7 +4,7 @@ The plugin allow you to open Location Settings view from Android Cordova applica
 
 #Adding the Plugin to your project
 
-cordova plugin add https://github.com/deefactorial/Cordova-open-native-settings.git
+cordova plugin add https://github.com/kashi549/Cordova-open-native-settings.git
 
 #Removing the Plugin to your project
 
